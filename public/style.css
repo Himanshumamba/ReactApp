@@ -1,0 +1,9 @@
+.posts {
+    color: #b9892d;
+    border: 1px solid black;
+}
+.posts  ul  {
+list-style: none;
+padding: 5px;
+
+}
